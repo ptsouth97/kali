@@ -25,4 +25,6 @@ apt-get install mana-toolkit
 gedit /etc/mana-toolkit/host apd-mana.conf
 gedit /usr/share/mana-toolkit/run-mana/start-nat-simple.sh
 bash /usr/share/mana-toolkit/run-mana/start-nat-simple.sh
-test3
+
+ phone DC:EF:09:D0:A8:02
+ ABX C0:56:27:71:8E:24
