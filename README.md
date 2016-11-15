@@ -25,3 +25,4 @@ apt-get install mana-toolkit
 gedit /etc/mana-toolkit/host apd-mana.conf
 gedit /usr/share/mana-toolkit/run-mana/start-nat-simple.sh
 bash /usr/share/mana-toolkit/run-mana/start-nat-simple.sh
+test
